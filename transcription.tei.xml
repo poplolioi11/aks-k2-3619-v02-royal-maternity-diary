@@ -10,10 +10,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>0.1.0</edition>
+        <edition>0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>2026-11-21. AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
+        <p>2026-11-21. Source-image review compared independent observations with the initial transcription and records 24 image-supported changes. Uncertain readings remain marked. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
       </publicationStmt>
       <sourceDesc>
         <p>韓國學中央研究院藏書閣 K2-3619 冊2，MF35-1917 <ref target="https://jsg.aks.ac.kr/dir/view?dataId=JSG_K2-3619">Source catalogue</ref>
@@ -54,7 +54,7 @@
           <ab type="body" n="003l03" xml:id="u-003l03">傳曰崔淑儀來九月當是産月産室諸事照例擧行事言于醫官</ab>
           <ab type="body" n="003l04" xml:id="u-003l04">○同日</ab>
           <ab type="body" n="003l05" xml:id="u-003l05">崔淑儀護産醫官望崔聖任鄭惟覺金汝器蛇油丸監劑官柳諶</ab>
-          <ab type="body" n="003l06" xml:id="u-003l06">鄭斗俊金慶華韓俊興玄萬運監捧官全世弘酒房官崔萬尚</ab>
+          <ab type="body" n="003l06" xml:id="u-003l06">鄭斗俊金慶華韓俊興玄萬運監採官全世弘酒房官崔萬尚</ab>
           <ab type="body" n="003l07" xml:id="u-003l07">掌務官邊永清金壽峯尹聖輔玄瑞夏金國賓申熙鎭掌務官</ab>
           <ab type="body" n="003l08" xml:id="u-003l08">李道元酒房官趙興瑞李重蕃</ab>
           <ab type="body" n="003l09" xml:id="u-003l09">落點崔聖任全世弘</ab>
@@ -93,11 +93,11 @@
           <ab type="body" n="004l06" xml:id="u-004l06">○甲戌八月十五日醫官全世弘</ab>
           <ab type="body" n="004l07" xml:id="u-004l07">崔淑儀房問　安答曰無事　饋酒</ab>
           <ab type="body" n="004l08" xml:id="u-004l08">○同日醫官崔聖任全世弘詣　差備</ab>
-          <ab type="body" n="004l09" xml:id="u-004l09">啓曰崔淑儀産室吉日自觀象監推擇以來明日排設之意敢　啓　答曰知道</ab>
+          <ab type="body" n="004l09" xml:id="u-004l09">啓曰崔淑儀産室吉日自觀象監推擇以來明日排設之意敎　啓　答曰知道</ab>
           <ab type="body" n="004l10" xml:id="u-004l10">○甲戌八月十六日辰時</ab>
           <ab type="body" n="004l11" xml:id="u-004l11">宣政殿後泰和堂産室排設時次知內官金斗光醫官崔聖任全</ab>
           <ab type="body" n="004l12" xml:id="u-004l12">世弘奏時官李後彬迴鑾官柳庭翰擇日官李貴賢書員</ab>
-          <ab type="body" n="004l13" xml:id="u-004l13">尹以俊裴忠相入室方位付二十四字而柱壁上先貼産畜次貼</ab>
+          <ab type="body" n="004l13" xml:id="u-004l13">尹以俊裴忠相入空方位付二十四字而土壁上先貼産畜次貼</ab>
           <ab type="body" n="004l14" xml:id="u-004l14">催生符次貼借地法安産室吉方藏胎衣吉方釘加莫金懸</ab>
           <note type="editorial">欄12『迴鑾』『後彬』、欄13『産畜』及欄14『加莫金』候讀，與冊001相近僅作日後覆核線索。</note>
         </div>
@@ -107,7 +107,7 @@
           <ab type="body" n="005r01" xml:id="u-005r01">馬韉後先鋪黃草次鋪空石次鋪草席次鋪羊毛氈次鋪</ab>
           <ab type="body" n="005r02" xml:id="u-005r02">油芚次鋪白馬皮乃於白馬皮頭下鋪生苧頭上左右鋪鼬鼠皮次鋪</ab>
           <ab type="body" n="005r03" xml:id="u-005r03">剪邊空石一立後醫官全世弘讀借地法三度後出仍爲懸鈴</ab>
-          <ab type="body" n="005r04" xml:id="u-005r04">於寶慶堂且於産室門外懸草屨排釘三寸釘三箇而出</ab>
+          <ab type="body" n="005r04" xml:id="u-005r04">於寶慶堂且於産室門外懸草處排釘三寸釘三箇而出</ab>
           <ab type="small-writing" n="005r05" xml:id="u-005r05">草門乃泰堂前敷練門</ab>
           <ab type="body" n="005r06" xml:id="u-005r06">排設後次知內官一員　差備內官一員護産官二員迴鑾官一員</ab>
           <ab type="body" n="005r07" xml:id="u-005r07">擇日官一員奏時官一員別監二人書員二人醫女二人司僕諸員</ab>
@@ -140,7 +140,7 @@
       <div n="6" type="scan" corresp="https://jsg.aks.ac.kr/viewer/viewIMok?dataId=K2-3619%7C002">
         <div type="surface" n="right">
           <ab type="body" n="006r01" xml:id="u-006r01">○甲戌九月初一日</ab>
-          <ab type="body" n="006r02" xml:id="u-006r02">當日辰時當月産畜改貼於柱壁上馬韉移懸於丙方馬</ab>
+          <ab type="body" n="006r02" xml:id="u-006r02">當日辰時當月産畜改貼於土壁上馬韉移懸於丙方馬</ab>
           <ab type="body" n="006r03" xml:id="u-006r03">皮亦爲移設丙首壬尾與次知內官眼同排置後卽爲</ab>
           <ab type="body" n="006r04" xml:id="u-006r04">啓達　自淑儀房饋酒</ab>
           <ab type="body" n="006r05" xml:id="u-006r05">○同日護産官崔聖任全世弘</ab>
@@ -188,14 +188,14 @@
           <ab type="body" n="007r11" xml:id="u-007r11">煎入之意詮次云々</ab>
           <ab type="body" n="007r12" xml:id="u-007r12">○同日酉時書</ab>
           <ab type="body" n="007r13" xml:id="u-007r13">啓崔淑儀氣候醫女言內煎入佛手散無事順服白露之氣更</ab>
-          <ab type="body" n="007r14" xml:id="u-007r14">無所下腹部之不平亦無所加云美痛與否姑未的知佛</ab>
+          <ab type="body" n="007r14" xml:id="u-007r14">無所下腹部之不平亦無所加云眞痛與否姑未的知佛</ab>
           <note type="editorial">第14欄『美』為候讀，小字『並』及『封』待確認。</note>
         </div>
         <div type="surface" n="left">
           <ab type="body" n="007l01" xml:id="u-007l01">手散乃臨月常服之藥而不可用一貼而止姑觀夜間氣候</ab>
           <ab type="body" n="007l02" xml:id="u-007l02">加用一貼之意詮次云々</ab>
           <ab type="body" n="007l03" xml:id="u-007l03">○甲戌九月十三日四更五點書</ab>
-          <ab type="body" n="007l04" xml:id="u-007l04">啓崔淑儀氣候卽刻醫女所傳言內喫羹湯之後再度嘔</ab>
+          <ab type="body" n="007l04" xml:id="u-007l04">啓崔淑儀氣候卽刻醫女所傳言內喫藿湯之後再度嘔</ab>
           <ab type="body" n="007l05" xml:id="u-007l05">吐有眩暈之氣云人參茶五錢重卽爲煎服以爲益氣定</ab>
           <ab type="body" n="007l06" xml:id="u-007l06">嘔之地宜當此意詮次云々</ab>
           <ab type="body" n="007l07" xml:id="u-007l07">○同日書</ab>
@@ -211,16 +211,16 @@
       </div>
       <div n="8" type="scan" corresp="https://jsg.aks.ac.kr/viewer/viewIMok?dataId=K2-3619%7C002">
         <div type="surface" n="right">
-          <ab type="body" n="008r01" xml:id="u-008r01">啓崔淑儀氣候醫女來傳言內分娩之後連喫羹湯一巡和</ab>
+          <ab type="body" n="008r01" xml:id="u-008r01">啓崔淑儀氣候醫女來傳言內分娩之後連喫藿湯一巡和</ab>
           <ab type="body" n="008r02" xml:id="u-008r02">飯羹湯一巡氣候平安云此意詮次云々</ab>
           <ab type="body" n="008r03" xml:id="u-008r03">○同日書</ab>
-          <ab type="body" n="008r04" xml:id="u-008r04">啓崔淑儀醫女來傳言內卽者又喫和飯羹湯一巡而氣</ab>
+          <ab type="body" n="008r04" xml:id="u-008r04">啓崔淑儀醫女來傳言內卽者又喫和飯藿湯一巡而氣</ab>
           <ab type="body" n="008r05" xml:id="u-008r05">候一樣平安云此意詮次云々</ab>
           <ab type="body" n="008r06" xml:id="u-008r06">○同日書</ab>
-          <ab type="body" n="008r07" xml:id="u-008r07">啓崔淑儀氣候醫女言內一樣平安而和飯羹湯卽今又</ab>
+          <ab type="body" n="008r07" xml:id="u-008r07">啓崔淑儀氣候醫女言內一樣平安而和飯藿湯卽今又</ab>
           <ab type="body" n="008r08" xml:id="u-008r08">喫一巡自分娩之後通計四巡云此意詮次云々</ab>
           <ab type="body" n="008r09" xml:id="u-008r09">○同日辰時書</ab>
-          <ab type="body" n="008r10" xml:id="u-008r10">啓崔淑儀氣候醫女言內卽今又喫和飯羹湯一巡氣候</ab>
+          <ab type="body" n="008r10" xml:id="u-008r10">啓崔淑儀氣候醫女言內卽今又喫和飯藿湯一巡氣候</ab>
           <ab type="body" n="008r11" xml:id="u-008r11">平安而新生阿只氏亦爲平安之意詮次云々</ab>
           <ab type="body" n="008r12" xml:id="u-008r12">○同日巳時書</ab>
           <ab type="body" n="008r13" xml:id="u-008r13">啓崔淑儀氣候醫女言內湯飯所喫通計七巡無他所苦處</ab>
@@ -238,7 +238,7 @@
           <ab type="body" n="008l08" xml:id="u-008l08">惡心之狀而今纔鎮定入睡胎糞亦爲少下云此是初生小</ab>
           <ab type="body" n="008l09" xml:id="u-008l09">兒例有之事姑爲觀勢施治之意詮次云々</ab>
           <ab type="body" n="008l10" xml:id="u-008l10">○同日申時書</ab>
-          <ab type="body" n="008l11" xml:id="u-008l11">啓崔淑儀氣候醫女傳言內和飯羹湯連喫二巡一向平安新</ab>
+          <ab type="body" n="008l11" xml:id="u-008l11">啓崔淑儀氣候醫女傳言內和飯藿湯連喫二巡一向平安新</ab>
           <ab type="body" n="008l12" xml:id="u-008l12">生阿只氏午間吐乳之後仍爲鎮定時々嚥乳眠息頗穩云</ab>
           <ab type="body" n="008l13" xml:id="u-008l13">此意詮次云々</ab>
           <ab type="body" n="008l14" xml:id="u-008l14">○同日夕間阿只氏大吐惡水三度頗有逆塞之氣誠甚非細不</ab>
@@ -251,13 +251,13 @@
           <ab type="body" n="009r02" xml:id="u-009r02">鉉鄭惟覺一時承　召入來第七日後一體饋酒賜物退歸</ab>
           <ab type="body" n="009r03" xml:id="u-009r03">○甲戌九月十四日書</ab>
           <ab type="body" n="009r04" xml:id="u-009r04">啓崔淑儀氣候醫女傳言內與昨一樣平安自初昏至曉後</ab>
-          <ab type="body" n="009r05" xml:id="u-009r05">連喫羹湯八巡新生阿只氏夜間或睡或覺時々吃乳更無</ab>
+          <ab type="body" n="009r05" xml:id="u-009r05">連喫藿湯八巡新生阿只氏夜間或睡或覺時々吃乳更無</ab>
           <ab type="body" n="009r06" xml:id="u-009r06">前患發作之事云極爲多幸之意詮次云々</ab>
           <ab type="body" n="009r07" xml:id="u-009r07">○同日書</ab>
-          <ab type="body" n="009r08" xml:id="u-009r08">啓明日乃崔淑儀分娩後第三日也洗浴吉時今日官推擇則</ab>
+          <ab type="body" n="009r08" xml:id="u-009r08">啓明日乃崔淑儀分娩後第三日也洗浴吉時令日官推擇則</ab>
           <ab type="body" n="009r09" xml:id="u-009r09">崔淑儀洗浴吉時今月十五日辰時阿只氏洗浴吉時同日巳</ab>
           <ab type="body" n="009r10" xml:id="u-009r10">時洗胎吉時同日午未間丁時爲吉云洗胎水則當取月德</ab>
-          <ab type="body" n="009r11" xml:id="u-009r11">丙方水用之矣第伏念此時洗浴日氣涼冷似當十分謹慎</ab>
+          <ab type="body" n="009r11" xml:id="u-009r11">丙方水用之矣第伏念此時洗浴日氣涼冷似當十分重慎</ab>
           <ab type="body" n="009r12" xml:id="u-009r12">而阿只氏洗浴則尤不可不致慮但用手巾隨便蘸拭極爲宜</ab>
           <ab type="body" n="009r13" xml:id="u-009r13">當之意並以詮次云々</ab>
           <ab type="body" n="009r14" xml:id="u-009r14">○同日未時書</ab>
@@ -285,11 +285,11 @@
         <div type="surface" n="right">
           <ab type="body" n="010r01" xml:id="u-010r01">醫女兩人入之</ab>
           <ab type="body" n="010r02" xml:id="u-010r02">○同日</ab>
-          <ab type="body" n="010r03" xml:id="u-010r03">阿只氏付紐次朱砂石雄黃各一塊醫女承禮入之</ab>
+          <ab type="body" n="010r03" xml:id="u-010r03">阿只氏付鈿次朱砂石雄黃各一塊醫女承禮入之</ab>
           <ab type="body" n="010r04" xml:id="u-010r04">○同日午時</ab>
           <ab type="body" n="010r05" xml:id="u-010r05">洗胎時月德方水洗百度後以酒更洗入內缸中銅錢一箇先</ab>
           <ab type="body" n="010r06" xml:id="u-010r06">入缸底油紙青藍覆缸口自　內封標出送內官醫官同坐以</ab>
-          <ab type="body" n="010r07" xml:id="u-010r07">甘糨封缸口入外缸中以紙及白綿爲隔封外缸後次知內官醫</ab>
+          <ab type="body" n="010r07" xml:id="u-010r07">甘糖封缸口入外缸中以紙及白綿爲隔封外缸後次知內官醫</ab>
           <ab type="body" n="010r08" xml:id="u-010r08">官着署懸紅牌前面書康熙三十三年九月十三日　崔淑儀房</ab>
           <ab type="body" n="010r09" xml:id="u-010r09">解産男阿只氏胎後面書次知內官醫官入於陶豆毛內隔以</ab>
           <ab type="body" n="010r10" xml:id="u-010r10">常毛氈使醫女入還於壬方自　內擇定胎峯藏之</ab>
@@ -322,7 +322,7 @@
           <ab type="body" n="011r01" xml:id="u-011r01">○同日書</ab>
           <ab type="body" n="011r02" xml:id="u-011r02">啓崔淑儀氣候醫女傳言內與昨一樣平安夜間連喫湯飯</ab>
           <ab type="body" n="011r03" xml:id="u-011r03">三巡阿只氏氣候五更量書　啓之後暫爲入睡俄而吃乳</ab>
-          <ab type="body" n="011r04" xml:id="u-011r04">少許兼呷生薑木瓜茶二匙仍爲入睡天明時睡覺又爲</ab>
+          <ab type="body" n="011r04" xml:id="u-011r04">少許並呷生薑木瓜茶二匙仍爲入睡天明時睡覺又爲</ab>
           <ab type="body" n="011r05" xml:id="u-011r05">吃乳云此意詮次云々</ab>
           <ab type="body" n="011r06" xml:id="u-011r06">○同日書</ab>
           <ab type="body" n="011r07" xml:id="u-011r07">啓崔淑儀氣候醫女傳言與朝一樣平安連喫湯飯一巡白飯一</ab>
@@ -357,7 +357,7 @@
         <div type="surface" n="right">
           <ab type="body" n="012r01" xml:id="u-012r01">吐少許罷遍後吃乳無事卽今入睡安穩云此意詮次云々</ab>
           <ab type="body" n="012r02" xml:id="u-012r02">○同日書</ab>
-          <ab type="body" n="012r03" xml:id="u-012r03">啓明日乃崔淑儀分娩後第七日也捲草吉時今日官推擇則</ab>
+          <ab type="body" n="012r03" xml:id="u-012r03">啓明日乃崔淑儀分娩後第七日也捲草吉時令日官推擇則</ab>
           <ab type="body" n="012r04" xml:id="u-012r04">今月十九日辰時爲吉云依此擧行之意詮次云々</ab>
           <ab type="body" n="012r05" xml:id="u-012r05">○同日書</ab>
           <ab type="body" n="012r06" xml:id="u-012r06">啓崔淑儀午間氣候醫女言內與朝一樣平安連喫湯飯一巡白</ab>
@@ -375,12 +375,12 @@
           <ab type="body" n="012l01" xml:id="u-012l01">吃乳眠睡極爲安穩二便調順云此意詮次云々</ab>
           <ab type="body" n="012l02" xml:id="u-012l02">○同日辰時捲草祭時先鋪地衣次置馬木於左右而加排大板子</ab>
           <ab type="body" n="012l03" xml:id="u-012l03">四葉其上排命米十斗武布帒十包列置而右置命綿十斤左置</ab>
-          <ab type="body" n="012l04" xml:id="u-012l04">命紬十疋中置命銀八十兩設香爐香盒左右燭臺安肉燭鋪排</ab>
+          <ab type="body" n="012l04" xml:id="u-012l04">命紬十疋中置命銀八十兩設香爐香盒左右燭臺安內燭鋪排</ab>
           <ab type="body" n="012l05" xml:id="u-012l05">席於階下護産醫官就位再拜仍詣懸草前下人一人捧函後</ab>
           <ab type="body" n="012l06" xml:id="u-012l06">之醫官親自捲草置函中下人持函安床上醫官詣香案前</ab>
           <ab type="body" n="012l07" xml:id="u-012l07">焚香下階就位行再拜禮後次知內官醫官同坐捲草入盛</ab>
           <ab type="body" n="012l08" xml:id="u-012l08">苧布帒以小紅袱裹封々外書醫官某着署入函中函外以紅</ab>
-          <ab type="body" n="012l09" xml:id="u-012l09">染條兩結封々外書次知內官又着署懸紅木牌一面書康熙三</ab>
+          <ab type="body" n="012l09" xml:id="u-012l09">染條所結封々外書次知內官又着署懸紅木牌一面書康熙三</ab>
           <ab type="body" n="012l10" xml:id="u-012l10">十三年九月十九日　崔淑儀解産男阿只氏捲草以抄奴紅染三</ab>
           <ab type="body" n="012l11" xml:id="u-012l11">甲所負函又以大紅袱覆函騎馬以出內資寺主簿金益礪部將</ab>
           <ab type="body" n="012l12" xml:id="u-012l12">二員領去引路軍士二名捧柜軍士六名出去內資寺而捲草</ab>
@@ -391,9 +391,9 @@
       </div>
       <div n="13" type="scan" corresp="https://jsg.aks.ac.kr/viewer/viewIMok?dataId=K2-3619%7C002">
         <div type="surface" n="right">
-          <ab type="body" n="013r01" xml:id="u-013r01">內資主簿金益礪襲子一部々將二員扇子各三把兵曹書吏內資</ab>
+          <ab type="body" n="013r01" xml:id="u-013r01">內資主簿金益礪囊子一部々將二員扇子各三把兵曹書吏內資</ab>
           <ab type="body" n="013r02" xml:id="u-013r02">寺部將廳衛將所書員各扇子二把使令二名書者一名軍士八名</ab>
-          <ab type="body" n="013r03" xml:id="u-013r03">各足巾次一端或負函抄奴官木一疋給之內資寺官員以下饋酒</ab>
+          <ab type="body" n="013r03" xml:id="u-013r03">各豆巾次一端或負函抄奴官木一疋給之內資寺官員以下饋酒</ab>
           <ab type="body" n="013r04" xml:id="u-013r04">○同日書</ab>
           <ab type="body" n="013r05" xml:id="u-013r05">啓崔淑儀氣候醫女言內一樣平安阿只氏吃乳眠睡亦皆平善</ab>
           <ab type="body" n="013r06" xml:id="u-013r06">云極爲喜幸臣等今日依前規退去之意並以詮次云々</ab>

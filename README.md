@@ -12,9 +12,9 @@ The 15 scans cover 21 written body faces, with 286 main-text columns and one sma
 
 ## 文字與覆核 / Text and review
 
-AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。照原稿保存全形空位、重文與圈記，夾注、藏印及館籤分層記錄。原日期採原件書寫，按館方圖號、左右面及欄位定位。
+逐幅回圖，比對獨立讀稿及原初錄，採用 24 項回圖訂正。疑讀、藏印或細小批注按實際可辨範圍保留。未做人類全文雙校、專家審定、同儕審查或準確率量測。照原稿保存全形空位、重文與圈記，夾注、藏印及館籤分層記錄。原日期採原件書寫，按館方圖號、左右面及欄位定位。
 
-AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. Original spacings, repetition marks and circles are retained. Small writing, collection stamps and labels are identified separately. Original dates and source image identifiers retain their manuscript context.
+Source-image review compared independent observations with the initial transcription and records 24 image-supported changes. Uncertain readings remain marked. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. Original spacings, repetition marks and circles are retained. Small writing, collection stamps and labels are identified separately. Original dates and source image identifiers retain their manuscript context.
 
 TXT 依幅、面與欄提供閱讀定位。JSON 和 TEI 採同一固定取文。「□」標難辨字，缺幅或不確定缺字處由頁面說明及疑義資料標示。完整提示、私有覆核過程與專用程式未隨附。AI 實際模型路由與用量未知。
 

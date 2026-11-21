@@ -1,0 +1,1636 @@
+{
+  "changes": [
+    {
+      "unit": "003l06",
+      "frame": 3,
+      "side": "003-L",
+      "offset_start": 13,
+      "offset_end": 14,
+      "before": "捧",
+      "after": "採",
+      "image_sha256": "56347a646b78eb4669edfcdc1d76fff28113d6f5aa72640bad7f8391f1a8762b",
+      "image_bbox": [
+        927,
+        1363,
+        1048,
+        1694
+      ],
+      "reason": "窄寫官名在「運」「全」之間。其右部上端散爪點，下帶中豎與分開的木腳。"
+    },
+    {
+      "unit": "004l09",
+      "frame": 4,
+      "side": "004-L",
+      "offset_start": 23,
+      "offset_end": 24,
+      "before": "敢",
+      "after": "敎",
+      "image_sha256": "e89a30cdf19bfd118b9532eed6a944029f71d7a8ec7a74ed95b3403bce838199",
+      "image_bbox": [
+        633,
+        1725,
+        754,
+        1894
+      ],
+      "reason": "同欄尾「之意」之下，左半上部交叉，下有子形，右為攵。"
+    },
+    {
+      "unit": "004l13",
+      "frame": 4,
+      "side": "004-L",
+      "offset_start": 16,
+      "offset_end": 17,
+      "before": "柱",
+      "after": "土",
+      "image_sha256": "e89a30cdf19bfd118b9532eed6a944029f71d7a8ec7a74ed95b3403bce838199",
+      "image_bbox": [
+        234,
+        1477,
+        355,
+        2095
+      ],
+      "reason": "「壁」上僅一豎與兩橫，未見木旁的兩足。"
+    },
+    {
+      "unit": "004l13",
+      "frame": 4,
+      "side": "004-L",
+      "offset_start": 7,
+      "offset_end": 8,
+      "before": "室",
+      "after": "空",
+      "image_sha256": "e89a30cdf19bfd118b9532eed6a944029f71d7a8ec7a74ed95b3403bce838199",
+      "image_bbox": [
+        234,
+        839,
+        355,
+        990
+      ],
+      "reason": "「入」下接寶蓋與分足，底是工形，無「至」下部構形。"
+    },
+    {
+      "unit": "005r04",
+      "frame": 5,
+      "side": "005-R",
+      "offset_start": 12,
+      "offset_end": 13,
+      "before": "屨",
+      "after": "處",
+      "image_sha256": "4e78bf60f7f081a8f1f416da066dbf522d793617a193fea17f04097a613a2418",
+      "image_bbox": [
+        2649,
+        1318,
+        2770,
+        1975
+      ],
+      "reason": "「草」下頭部內外折線呈虍，末筆是弧鉤形；未見「屨」的尸／雙人結構。"
+    },
+    {
+      "unit": "006r02",
+      "frame": 6,
+      "side": "006-R",
+      "offset_start": 11,
+      "offset_end": 12,
+      "before": "柱",
+      "after": "土",
+      "image_sha256": "529a788a2bd8f20ca84d083e861927b2e47223d6c878f305dcf2ecd9171c7286",
+      "image_bbox": [
+        2859,
+        878,
+        2980,
+        1458
+      ],
+      "reason": "「壁」上僅一豎與兩橫，未見木旁的兩足。"
+    },
+    {
+      "unit": "007r14",
+      "frame": 7,
+      "side": "007-R",
+      "offset_start": 13,
+      "offset_end": 14,
+      "before": "美",
+      "after": "眞",
+      "image_sha256": "565b96a61c9ef456f649e28c7f76ea546fd4636c6d48c40f0456668210664ee5",
+      "image_bbox": [
+        1662,
+        1420,
+        1783,
+        1736
+      ],
+      "reason": "「痛」上字上部折筆、目形中身與下兩筆分開，可讀「眞」。"
+    },
+    {
+      "unit": "007l04",
+      "frame": 7,
+      "side": "007-L",
+      "offset_start": 15,
+      "offset_end": 16,
+      "before": "羹",
+      "after": "藿",
+      "image_sha256": "565b96a61c9ef456f649e28c7f76ea546fd4636c6d48c40f0456668210664ee5",
+      "image_bbox": [
+        1109,
+        1601,
+        1230,
+        1830
+      ],
+      "reason": "上端分立草點，下面可辨「雨」形及「隹」的右豎，並無「美」末的大足。明晰同形例在007l04。"
+    },
+    {
+      "unit": "008r01",
+      "frame": 8,
+      "side": "008-R",
+      "offset_start": 18,
+      "offset_end": 19,
+      "before": "羹",
+      "after": "藿",
+      "image_sha256": "7d07fb8a68654c3fd11f970c14eb83790461c2755da1bd83277dd9a365c9c2ed",
+      "image_bbox": [
+        2945,
+        1710,
+        3065,
+        2003
+      ],
+      "reason": "上端分立草點，下面可辨「雨」形及「隹」的右豎，並無「美」末的大足。明晰同形例在007l04。"
+    },
+    {
+      "unit": "008r04",
+      "frame": 8,
+      "side": "008-R",
+      "offset_start": 16,
+      "offset_end": 17,
+      "before": "羹",
+      "after": "藿",
+      "image_sha256": "7d07fb8a68654c3fd11f970c14eb83790461c2755da1bd83277dd9a365c9c2ed",
+      "image_bbox": [
+        2633,
+        1623,
+        2753,
+        1991
+      ],
+      "reason": "上端分立草點，下面可辨「雨」形及「隹」的右豎，並無「美」末的大足。明晰同形例在007l04。"
+    },
+    {
+      "unit": "008r07",
+      "frame": 8,
+      "side": "008-R",
+      "offset_start": 17,
+      "offset_end": 18,
+      "before": "羹",
+      "after": "藿",
+      "image_sha256": "7d07fb8a68654c3fd11f970c14eb83790461c2755da1bd83277dd9a365c9c2ed",
+      "image_bbox": [
+        2352,
+        1707,
+        2472,
+        1949
+      ],
+      "reason": "上端分立草點，下面可辨「雨」形及「隹」的右豎，並無「美」末的大足。明晰同形例在007l04。"
+    },
+    {
+      "unit": "008r10",
+      "frame": 8,
+      "side": "008-R",
+      "offset_start": 16,
+      "offset_end": 17,
+      "before": "羹",
+      "after": "藿",
+      "image_sha256": "7d07fb8a68654c3fd11f970c14eb83790461c2755da1bd83277dd9a365c9c2ed",
+      "image_bbox": [
+        2056,
+        1692,
+        2177,
+        2029
+      ],
+      "reason": "上端分立草點，下面可辨「雨」形及「隹」的右豎，並無「美」末的大足。明晰同形例在007l04。"
+    },
+    {
+      "unit": "008l11",
+      "frame": 8,
+      "side": "008-L",
+      "offset_start": 13,
+      "offset_end": 14,
+      "before": "羹",
+      "after": "藿",
+      "image_sha256": "7d07fb8a68654c3fd11f970c14eb83790461c2755da1bd83277dd9a365c9c2ed",
+      "image_bbox": [
+        425,
+        1388,
+        546,
+        1591
+      ],
+      "reason": "上端分立草點，下面可辨「雨」形及「隹」的右豎，並無「美」末的大足。明晰同形例在007l04。"
+    },
+    {
+      "unit": "009r05",
+      "frame": 9,
+      "side": "009-R",
+      "offset_start": 2,
+      "offset_end": 3,
+      "before": "羹",
+      "after": "藿",
+      "image_sha256": "0b3c4b8c0e2e8113a4ffb65c3b506741747845b51a5cfcb422157fcd9080e490",
+      "image_bbox": [
+        2541,
+        400,
+        2661,
+        743
+      ],
+      "reason": "上端分立草點，下面可辨「雨」形及「隹」的右豎，並無「美」末的大足。明晰同形例在007l04。"
+    },
+    {
+      "unit": "009r08",
+      "frame": 9,
+      "side": "009-R",
+      "offset_start": 18,
+      "offset_end": 19,
+      "before": "今",
+      "after": "令",
+      "image_sha256": "0b3c4b8c0e2e8113a4ffb65c3b506741747845b51a5cfcb422157fcd9080e490",
+      "image_bbox": [
+        2240,
+        1760,
+        2360,
+        1954
+      ],
+      "reason": "人形下中點與底端折筆分開，與十二幅右三欄再次可見，使令日官的寫法屬該字形。"
+    },
+    {
+      "unit": "009r11",
+      "frame": 9,
+      "side": "009-R",
+      "offset_start": 21,
+      "offset_end": 22,
+      "before": "謹",
+      "after": "重",
+      "image_sha256": "0b3c4b8c0e2e8113a4ffb65c3b506741747845b51a5cfcb422157fcd9080e490",
+      "image_bbox": [
+        1953,
+        1572,
+        2074,
+        2215
+      ],
+      "reason": "「十分」下首字重心為中央直豎貫穿多橫，無在左另立的言旁。"
+    },
+    {
+      "unit": "010r03",
+      "frame": 10,
+      "side": "010-R",
+      "offset_start": 4,
+      "offset_end": 5,
+      "before": "紐",
+      "after": "鈿",
+      "image_sha256": "dc417b07125ee478b1e3a42ba671ddcddef17fae0600894c86476b00f9261501",
+      "image_bbox": [
+        2744,
+        622,
+        2865,
+        838
+      ],
+      "reason": "明見左側金旁、右側田框內橫直交叉。"
+    },
+    {
+      "unit": "010r07",
+      "frame": 10,
+      "side": "010-R",
+      "offset_start": 1,
+      "offset_end": 2,
+      "before": "糨",
+      "after": "糖",
+      "image_sha256": "dc417b07125ee478b1e3a42ba671ddcddef17fae0600894c86476b00f9261501",
+      "image_bbox": [
+        2361,
+        395,
+        2482,
+        572
+      ],
+      "reason": "米旁右側底部可見「唐」的口形，並見上半的廣頭；未見弓形。"
+    },
+    {
+      "unit": "011r04",
+      "frame": 11,
+      "side": "011-R",
+      "offset_start": 2,
+      "offset_end": 3,
+      "before": "兼",
+      "after": "並",
+      "image_sha256": "492d8015e865410bc6462803f31e6848e14797b30423782a3826e2172874590b",
+      "image_bbox": [
+        2647,
+        539,
+        2768,
+        801
+      ],
+      "reason": "左起兩短挑與上下兩橫，底筆分布與此冊「並」字同，而無兼字的中央長直筆。"
+    },
+    {
+      "unit": "012r03",
+      "frame": 12,
+      "side": "012-R",
+      "offset_start": 18,
+      "offset_end": 19,
+      "before": "今",
+      "after": "令",
+      "image_sha256": "01c6a2b6aa22eb2fe4e734d7c3ddd3efd75a5d7667aceb0a39c9ea662cbf4bf0",
+      "image_bbox": [
+        2725,
+        1706,
+        2846,
+        1897
+      ],
+      "reason": "人形下中點與底端折筆分開，同樣出現在009r08。"
+    },
+    {
+      "unit": "012l04",
+      "frame": 12,
+      "side": "012-L",
+      "offset_start": 21,
+      "offset_end": 22,
+      "before": "肉",
+      "after": "內",
+      "image_sha256": "01c6a2b6aa22eb2fe4e734d7c3ddd3efd75a5d7667aceb0a39c9ea662cbf4bf0",
+      "image_bbox": [
+        1138,
+        1843,
+        1259,
+        2084
+      ],
+      "reason": "框內只有一組撇捺，與本冊多處「內官」寫法相近。"
+    },
+    {
+      "unit": "012l09",
+      "frame": 12,
+      "side": "012-L",
+      "offset_start": 2,
+      "offset_end": 3,
+      "before": "兩",
+      "after": "所",
+      "image_sha256": "01c6a2b6aa22eb2fe4e734d7c3ddd3efd75a5d7667aceb0a39c9ea662cbf4bf0",
+      "image_bbox": [
+        623,
+        383,
+        744,
+        696
+      ],
+      "reason": "「條」「結」之間明見右部斤形的長豎及斜撇，左部為戶形，沒有兩字框內平行疊筆。"
+    },
+    {
+      "unit": "013r01",
+      "frame": 13,
+      "side": "013-R",
+      "offset_start": 7,
+      "offset_end": 8,
+      "before": "襲",
+      "after": "囊",
+      "image_sha256": "3d3f96a425542f98e2e5c05b631277599c189722dd58ae2f661d56db49e6b07f",
+      "image_bbox": [
+        2959,
+        867,
+        3080,
+        1113
+      ],
+      "reason": "字頂有橫帽，中部見雙口緊連輪廓，底有衣腳；未見襲字上部龍形。"
+    },
+    {
+      "unit": "013r03",
+      "frame": 13,
+      "side": "013-R",
+      "offset_start": 1,
+      "offset_end": 2,
+      "before": "足",
+      "after": "豆",
+      "image_sha256": "3d3f96a425542f98e2e5c05b631277599c189722dd58ae2f661d56db49e6b07f",
+      "image_bbox": [
+        2745,
+        468,
+        2867,
+        591
+      ],
+      "reason": "欄上該字是口形夾在上下橫線之間，末有一短橫，無足字下部的歧勢。"
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "003l06:24-24",
+      "column_id": "003l06",
+      "source_image": "003",
+      "image_sha256": "56347a646b78eb4669edfcdc1d76fff28113d6f5aa72640bad7f8391f1a8762b",
+      "initial_text": "尚",
+      "candidates": [
+        "尚",
+        "尙"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "頂部撇點及豎筆相接，未建立足以逐處決定的字形編碼分界。",
+      "bbox_xyxy": [
+        895,
+        2019,
+        1015,
+        2199
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "003l07:06-06",
+      "column_id": "003l07",
+      "source_image": "003",
+      "image_sha256": "56347a646b78eb4669edfcdc1d76fff28113d6f5aa72640bad7f8391f1a8762b",
+      "initial_text": "清",
+      "candidates": [
+        "清",
+        "淸"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "字旁與「青」下體有行草筆連，精確碼位保留兩候選。",
+      "bbox_xyxy": [
+        855,
+        703,
+        975,
+        878
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "003l07:21-21",
+      "column_id": "003l07",
+      "source_image": "003",
+      "image_sha256": "56347a646b78eb4669edfcdc1d76fff28113d6f5aa72640bad7f8391f1a8762b",
+      "initial_text": "鎭",
+      "candidates": [
+        "鎭",
+        "瑱"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "右側似「眞」，左側短橫與立筆近「王」，但筆與版線及上一字靠近。",
+      "bbox_xyxy": [
+        831,
+        1790,
+        951,
+        2013
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "004r01:16-16",
+      "column_id": "004r01",
+      "source_image": "004",
+      "image_sha256": "e89a30cdf19bfd118b9532eed6a944029f71d7a8ec7a74ed95b3403bce838199",
+      "initial_text": "裴",
+      "candidates": [
+        "裴",
+        "裵"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "「非」與「衣」兩部在書手筆勢下連寫，編碼選擇另留。",
+      "bbox_xyxy": [
+        2975,
+        1427,
+        3096,
+        1662
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "004r03:19-19",
+      "column_id": "004r03",
+      "source_image": "004",
+      "image_sha256": "e89a30cdf19bfd118b9532eed6a944029f71d7a8ec7a74ed95b3403bce838199",
+      "initial_text": "韉",
+      "candidates": [
+        "韉",
+        "氈",
+        "韂"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "「馬」下用字與同欄「羊毛」下的「氈」明顯形異。「馬」下字右下有方口形，精確構字待定；另可並列「韂」。",
+      "bbox_xyxy": [
+        2770,
+        1640,
+        2891,
+        2202
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "004r05:05-05",
+      "column_id": "004r05",
+      "source_image": "004",
+      "image_sha256": "e89a30cdf19bfd118b9532eed6a944029f71d7a8ec7a74ed95b3403bce838199",
+      "initial_text": "正",
+      "candidates": [
+        "正",
+        "己",
+        "已",
+        "巴"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "單字上有短橫，下面兩筆形成開口向上的鉤形，與009l12有近形，未確認是「正」的簡寫、己、已或巴。",
+      "bbox_xyxy": [
+        2576,
+        274,
+        2709,
+        2269
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "004l12:09-10",
+      "column_id": "004l12",
+      "source_image": "004",
+      "image_sha256": "e89a30cdf19bfd118b9532eed6a944029f71d7a8ec7a74ed95b3403bce838199",
+      "initial_text": "迴鑾",
+      "candidates": [
+        "迴鑾",
+        "延鐵"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "第一字左下長捺，右構件似「延」但筆連。第二字有靠左金旁形，並存「延鐵」「迴鑾」、另作待辨。兩處字形同族。",
+      "bbox_xyxy": [
+        342,
+        812,
+        463,
+        1284
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "004l13:04-04",
+      "column_id": "004l13",
+      "source_image": "004",
+      "image_sha256": "e89a30cdf19bfd118b9532eed6a944029f71d7a8ec7a74ed95b3403bce838199",
+      "initial_text": "裴",
+      "candidates": [
+        "裴",
+        "裵"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "「非」與「衣」兩部在書手筆勢下連寫，編碼選擇另留。",
+      "bbox_xyxy": [
+        236,
+        274,
+        369,
+        2269
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "004l13:23-23",
+      "column_id": "004l13",
+      "source_image": "004",
+      "image_sha256": "e89a30cdf19bfd118b9532eed6a944029f71d7a8ec7a74ed95b3403bce838199",
+      "initial_text": "畜",
+      "candidates": [
+        "畜",
+        "圖"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "「産」後字清楚保留田形下部，上部筆縮；未看見能確定「圖」的外囗，圖義通順並不足以改底本文字。",
+      "bbox_xyxy": [
+        234,
+        1477,
+        355,
+        2095
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "004l14:19-19",
+      "column_id": "004l14",
+      "source_image": "004",
+      "image_sha256": "e89a30cdf19bfd118b9532eed6a944029f71d7a8ec7a74ed95b3403bce838199",
+      "initial_text": "釘",
+      "candidates": [
+        "釘",
+        "錢"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "左側金旁可辨，右部細筆偏斜，尚無法在相似形中排除歷史寫法。待比較同書同手的金旁字。",
+      "bbox_xyxy": [
+        137,
+        274,
+        270,
+        2269
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "005r01:02-02",
+      "column_id": "005r01",
+      "source_image": "005",
+      "image_sha256": "4e78bf60f7f081a8f1f416da066dbf522d793617a193fea17f04097a613a2418",
+      "initial_text": "韉",
+      "candidates": [
+        "韉",
+        "氈",
+        "韂"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "「馬」下用字與同欄「羊毛」下的「氈」明顯形異。「馬」下字右下有方口形，精確構字待定；另可並列「韂」。",
+      "bbox_xyxy": [
+        2957,
+        274,
+        3090,
+        2265
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "005r02:17-17",
+      "column_id": "005r02",
+      "source_image": "005",
+      "image_sha256": "4e78bf60f7f081a8f1f416da066dbf522d793617a193fea17f04097a613a2418",
+      "initial_text": "苧",
+      "candidates": [
+        "苧",
+        "芋"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "草頭清楚，內部右下有向左小鉤，宀或于式筆畫在上部相攏。",
+      "bbox_xyxy": [
+        2846,
+        1416,
+        2967,
+        1577
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "005r02:23-23",
+      "column_id": "005r02",
+      "source_image": "005",
+      "image_sha256": "4e78bf60f7f081a8f1f416da066dbf522d793617a193fea17f04097a613a2418",
+      "initial_text": "鼬",
+      "candidates": [
+        "鼬",
+        "鼴"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "複合字下端鼠形明顯，上端短橫多而密，無法確定是「鼴」「鼬」或另形。",
+      "bbox_xyxy": [
+        2851,
+        1396,
+        2971,
+        2108
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "005r04:15-15",
+      "column_id": "005r04",
+      "source_image": "005",
+      "image_sha256": "4e78bf60f7f081a8f1f416da066dbf522d793617a193fea17f04097a613a2418",
+      "initial_text": "釘",
+      "candidates": [
+        "釘",
+        "錢"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "左側金旁可辨，右部細筆偏斜，尚無法在相似形中排除歷史寫法。待比較同書同手的金旁字。",
+      "bbox_xyxy": [
+        2649,
+        1318,
+        2770,
+        1975
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "005r04:18-18",
+      "column_id": "005r04",
+      "source_image": "005",
+      "image_sha256": "4e78bf60f7f081a8f1f416da066dbf522d793617a193fea17f04097a613a2418",
+      "initial_text": "釘",
+      "candidates": [
+        "釘",
+        "錢"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "左側金旁可辨，右部細筆偏斜，尚無法在相似形中排除歷史寫法。待比較同書同手的金旁字。",
+      "bbox_xyxy": [
+        2649,
+        1318,
+        2770,
+        1975
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "005r06:21-22",
+      "column_id": "005r06",
+      "source_image": "005",
+      "image_sha256": "4e78bf60f7f081a8f1f416da066dbf522d793617a193fea17f04097a613a2418",
+      "initial_text": "迴鑾",
+      "candidates": [
+        "迴鑾",
+        "延鐵"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "第一字左下長捺，右構件似「延」但筆連。第二字有靠左金旁形，並存「延鐵」「迴鑾」、另作待辨。兩處字形同族。",
+      "bbox_xyxy": [
+        2461,
+        1819,
+        2582,
+        2177
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "005r09:15-15",
+      "column_id": "005r09",
+      "source_image": "005",
+      "image_sha256": "4e78bf60f7f081a8f1f416da066dbf522d793617a193fea17f04097a613a2418",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        2168,
+        274,
+        2301,
+        2265
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "005l14:07-07",
+      "column_id": "005l14",
+      "source_image": "005",
+      "image_sha256": "4e78bf60f7f081a8f1f416da066dbf522d793617a193fea17f04097a613a2418",
+      "initial_text": "畜",
+      "candidates": [
+        "畜",
+        "圖"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "「産」後字清楚保留田形下部，上部筆縮；未看見能確定「圖」的外囗，圖義通順並不足以改底本文字。",
+      "bbox_xyxy": [
+        141,
+        274,
+        274,
+        2265
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "006r02:08-08",
+      "column_id": "006r02",
+      "source_image": "006",
+      "image_sha256": "529a788a2bd8f20ca84d083e861927b2e47223d6c878f305dcf2ecd9171c7286",
+      "initial_text": "畜",
+      "candidates": [
+        "畜",
+        "圖"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "「産」後字清楚保留田形下部，上部筆縮；未看見能確定「圖」的外囗，圖義通順並不足以改底本文字。",
+      "bbox_xyxy": [
+        2862,
+        274,
+        2995,
+        2268
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "006r02:16-16",
+      "column_id": "006r02",
+      "source_image": "006",
+      "image_sha256": "529a788a2bd8f20ca84d083e861927b2e47223d6c878f305dcf2ecd9171c7286",
+      "initial_text": "韉",
+      "candidates": [
+        "韉",
+        "氈",
+        "韂"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "「馬」下用字與同欄「羊毛」下的「氈」明顯形異。「馬」下字右下有方口形，精確構字待定；另可並列「韂」。",
+      "bbox_xyxy": [
+        2862,
+        274,
+        2995,
+        2268
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "006r03:20-20",
+      "column_id": "006r03",
+      "source_image": "006",
+      "image_sha256": "529a788a2bd8f20ca84d083e861927b2e47223d6c878f305dcf2ecd9171c7286",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        2763,
+        274,
+        2896,
+        2268
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "007r08:07-07",
+      "column_id": "007r08",
+      "source_image": "007",
+      "image_sha256": "565b96a61c9ef456f649e28c7f76ea546fd4636c6d48c40f0456668210664ee5",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        2241,
+        274,
+        2373,
+        2264
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "007l04:07-07",
+      "column_id": "007l04",
+      "source_image": "007",
+      "image_sha256": "565b96a61c9ef456f649e28c7f76ea546fd4636c6d48c40f0456668210664ee5",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        1113,
+        274,
+        1246,
+        2264
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "007l05:14-14",
+      "column_id": "007l05",
+      "source_image": "007",
+      "image_sha256": "565b96a61c9ef456f649e28c7f76ea546fd4636c6d48c40f0456668210664ee5",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        1014,
+        274,
+        1147,
+        2264
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "008r02:02-02",
+      "column_id": "008r02",
+      "source_image": "008",
+      "image_sha256": "7d07fb8a68654c3fd11f970c14eb83790461c2755da1bd83277dd9a365c9c2ed",
+      "initial_text": "羹",
+      "candidates": [
+        "羹",
+        "藿"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "欄上有疊墨，左側與草頭多處筆畫不清。「藿」參照同幅其他當處字樣仍僅列候讀。",
+      "bbox_xyxy": [
+        2853,
+        474,
+        2974,
+        867
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "008r04:11-11",
+      "column_id": "008r04",
+      "source_image": "008",
+      "image_sha256": "7d07fb8a68654c3fd11f970c14eb83790461c2755da1bd83277dd9a365c9c2ed",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        2646,
+        273,
+        2778,
+        2262
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "008r07:20-20",
+      "column_id": "008r07",
+      "source_image": "008",
+      "image_sha256": "7d07fb8a68654c3fd11f970c14eb83790461c2755da1bd83277dd9a365c9c2ed",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        2349,
+        273,
+        2481,
+        2262
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "008r10:11-11",
+      "column_id": "008r10",
+      "source_image": "008",
+      "image_sha256": "7d07fb8a68654c3fd11f970c14eb83790461c2755da1bd83277dd9a365c9c2ed",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        2052,
+        273,
+        2185,
+        2262
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "008l01:09-09",
+      "column_id": "008l01",
+      "source_image": "008",
+      "image_sha256": "7d07fb8a68654c3fd11f970c14eb83790461c2755da1bd83277dd9a365c9c2ed",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        1400,
+        273,
+        1533,
+        2262
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "008l04:15-15",
+      "column_id": "008l04",
+      "source_image": "008",
+      "image_sha256": "7d07fb8a68654c3fd11f970c14eb83790461c2755da1bd83277dd9a365c9c2ed",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        1108,
+        273,
+        1240,
+        2262
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "008l07:02-02",
+      "column_id": "008l07",
+      "source_image": "008",
+      "image_sha256": "7d07fb8a68654c3fd11f970c14eb83790461c2755da1bd83277dd9a365c9c2ed",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        815,
+        273,
+        948,
+        2262
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "008l07:23-23",
+      "column_id": "008l07",
+      "source_image": "008",
+      "image_sha256": "7d07fb8a68654c3fd11f970c14eb83790461c2755da1bd83277dd9a365c9c2ed",
+      "initial_text": "同",
+      "candidates": [
+        "同",
+        "因"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "字下半封框內一撇斜與回筆近「因」，內部能否拆成口仍未定。",
+      "bbox_xyxy": [
+        805,
+        1979,
+        925,
+        2190
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "008l08:08-08",
+      "column_id": "008l08",
+      "source_image": "008",
+      "image_sha256": "7d07fb8a68654c3fd11f970c14eb83790461c2755da1bd83277dd9a365c9c2ed",
+      "initial_text": "鎮",
+      "candidates": [
+        "鎮",
+        "鎭"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "右側兩種常用碼位對應的微部件在行書中相接，保留初錄碼位。",
+      "bbox_xyxy": [
+        717,
+        273,
+        850,
+        2262
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "008l12:13-13",
+      "column_id": "008l12",
+      "source_image": "008",
+      "image_sha256": "7d07fb8a68654c3fd11f970c14eb83790461c2755da1bd83277dd9a365c9c2ed",
+      "initial_text": "鎮",
+      "candidates": [
+        "鎮",
+        "鎭"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "右側兩種常用碼位對應的微部件在行書中相接，保留初錄碼位。",
+      "bbox_xyxy": [
+        327,
+        273,
+        460,
+        2262
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "008l12:17-17",
+      "column_id": "008l12",
+      "source_image": "008",
+      "image_sha256": "7d07fb8a68654c3fd11f970c14eb83790461c2755da1bd83277dd9a365c9c2ed",
+      "initial_text": "嚥",
+      "candidates": [
+        "嚥",
+        "嚼",
+        "噙",
+        "嚙"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "「時」重文後的字有可見口旁家族，但右側頂、尾與 8L 行墨陰影相接；列嚼、噙、嚙、嚥。",
+      "bbox_xyxy": [
+        341,
+        1539,
+        435,
+        1876
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "008l14:21-21",
+      "column_id": "008l14",
+      "source_image": "008",
+      "image_sha256": "7d07fb8a68654c3fd11f970c14eb83790461c2755da1bd83277dd9a365c9c2ed",
+      "initial_text": "誠",
+      "candidates": [
+        "誠",
+        "訖",
+        "詑",
+        "其他"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "氣字下見言旁，右部回鉤近乙形，訖、詑或其他皆待定，右部不支援直接確證「誠」。",
+      "bbox_xyxy": [
+        103,
+        1707,
+        236,
+        1918
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "009r01:19-19",
+      "column_id": "009r01",
+      "source_image": "009",
+      "image_sha256": "0b3c4b8c0e2e8113a4ffb65c3b506741747845b51a5cfcb422157fcd9080e490",
+      "initial_text": "鎮",
+      "candidates": [
+        "鎮",
+        "鎭"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "右側兩種常用碼位對應的微部件在行書中相接，保留初錄碼位。",
+      "bbox_xyxy": [
+        2942,
+        274,
+        3075,
+        2268
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "009r11:16-16",
+      "column_id": "009r11",
+      "source_image": "009",
+      "image_sha256": "0b3c4b8c0e2e8113a4ffb65c3b506741747845b51a5cfcb422157fcd9080e490",
+      "initial_text": "涼",
+      "candidates": [
+        "涼",
+        "凉"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "左側點筆在此簡省，原讀用「凉」；不把部件連寫當成已確證的規範字轉換。",
+      "bbox_xyxy": [
+        1953,
+        1572,
+        2074,
+        2215
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "009r11:23-23",
+      "column_id": "009r11",
+      "source_image": "009",
+      "image_sha256": "0b3c4b8c0e2e8113a4ffb65c3b506741747845b51a5cfcb422157fcd9080e490",
+      "initial_text": "慎",
+      "candidates": [
+        "慎",
+        "愼"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "右部中段與底足相接，在人核前兩者並存於觀察層。",
+      "bbox_xyxy": [
+        1953,
+        1572,
+        2074,
+        2215
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "009l08:11-11",
+      "column_id": "009l08",
+      "source_image": "009",
+      "image_sha256": "0b3c4b8c0e2e8113a4ffb65c3b506741747845b51a5cfcb422157fcd9080e490",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        715,
+        274,
+        848,
+        2268
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "009l08:14-15",
+      "column_id": "009l08",
+      "source_image": "009",
+      "image_sha256": "0b3c4b8c0e2e8113a4ffb65c3b506741747845b51a5cfcb422157fcd9080e490",
+      "initial_text": "罷遍",
+      "candidates": [
+        "罷遍",
+        "羅過",
+        "羅",
+        "纔"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "第一字上方可辨罒；下部密寫，無法穩定決定羅或罷。次字似辶，下軀部分與「過」近；比較009l08與012r01，仍維持候選。",
+      "bbox_xyxy": [
+        723,
+        1386,
+        833,
+        1682
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "009l09:01-01",
+      "column_id": "009l09",
+      "source_image": "009",
+      "image_sha256": "0b3c4b8c0e2e8113a4ffb65c3b506741747845b51a5cfcb422157fcd9080e490",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        616,
+        274,
+        749,
+        2268
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "009l11:20-20",
+      "column_id": "009l11",
+      "source_image": "009",
+      "image_sha256": "0b3c4b8c0e2e8113a4ffb65c3b506741747845b51a5cfcb422157fcd9080e490",
+      "initial_text": "偏",
+      "candidates": [
+        "偏",
+        "編"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "右扁清楚；左方筆畫有分點但緊密，不能排除亻行草簡寫。",
+      "bbox_xyxy": [
+        423,
+        1591,
+        544,
+        1942
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "009l12:03-03",
+      "column_id": "009l12",
+      "source_image": "009",
+      "image_sha256": "0b3c4b8c0e2e8113a4ffb65c3b506741747845b51a5cfcb422157fcd9080e490",
+      "initial_text": "正",
+      "candidates": [
+        "正",
+        "己",
+        "已",
+        "巴"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "「白」「布」之間上有短橫，下呈回鉤，與004r05有近形。未完成字形與此處用字的區分。",
+      "bbox_xyxy": [
+        319,
+        467,
+        440,
+        782
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "010r06:06-06",
+      "column_id": "010r06",
+      "source_image": "010",
+      "image_sha256": "dc417b07125ee478b1e3a42ba671ddcddef17fae0600894c86476b00f9261501",
+      "initial_text": "青",
+      "candidates": [
+        "青",
+        "靑"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "下半部內橫筆一至兩處與側線相連；青與靑的編碼保留原樣。",
+      "bbox_xyxy": [
+        2460,
+        773,
+        2580,
+        914
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "010r12:23-23",
+      "column_id": "010r12",
+      "source_image": "010",
+      "image_sha256": "dc417b07125ee478b1e3a42ba671ddcddef17fae0600894c86476b00f9261501",
+      "initial_text": "尚",
+      "candidates": [
+        "尚",
+        "尙"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "頂部撇點及豎筆相接，未建立足以逐處決定的字形編碼分界。",
+      "bbox_xyxy": [
+        1862,
+        273,
+        1994,
+        2261
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "010l10:07-07",
+      "column_id": "010l10",
+      "source_image": "010",
+      "image_sha256": "dc417b07125ee478b1e3a42ba671ddcddef17fae0600894c86476b00f9261501",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        531,
+        273,
+        664,
+        2261
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "011r03:19-19",
+      "column_id": "011r03",
+      "source_image": "011",
+      "image_sha256": "492d8015e865410bc6462803f31e6848e14797b30423782a3826e2172874590b",
+      "initial_text": "俄",
+      "candidates": [
+        "俄",
+        "餓"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "右我形一致。011r03及011l10的左側多一短折筆，可能是窄寫飠，仍不能排除彳或亻。",
+      "bbox_xyxy": [
+        2735,
+        1810,
+        2856,
+        2136
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "011r08:22-22",
+      "column_id": "011r08",
+      "source_image": "011",
+      "image_sha256": "492d8015e865410bc6462803f31e6848e14797b30423782a3826e2172874590b",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        2254,
+        274,
+        2387,
+        2269
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "011r12:13-13",
+      "column_id": "011r12",
+      "source_image": "011",
+      "image_sha256": "492d8015e865410bc6462803f31e6848e14797b30423782a3826e2172874590b",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        1860,
+        274,
+        1993,
+        2269
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "011l07:05-05",
+      "column_id": "011l07",
+      "source_image": "011",
+      "image_sha256": "492d8015e865410bc6462803f31e6848e14797b30423782a3826e2172874590b",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        815,
+        274,
+        948,
+        2269
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "011l10:12-12",
+      "column_id": "011l10",
+      "source_image": "011",
+      "image_sha256": "492d8015e865410bc6462803f31e6848e14797b30423782a3826e2172874590b",
+      "initial_text": "俄",
+      "candidates": [
+        "俄",
+        "餓"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "右我形一致。011r03及011l10的左側多一短折筆，可能是窄寫飠，仍不能排除彳或亻。",
+      "bbox_xyxy": [
+        523,
+        1117,
+        644,
+        1348
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "012r01:04-05",
+      "column_id": "012r01",
+      "source_image": "012",
+      "image_sha256": "01c6a2b6aa22eb2fe4e734d7c3ddd3efd75a5d7667aceb0a39c9ea662cbf4bf0",
+      "initial_text": "罷遍",
+      "candidates": [
+        "罷遍",
+        "羅過",
+        "羅",
+        "纔"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "第一字上方可辨罒；下部密寫，無法穩定決定羅或罷。次字似辶，下軀部分與「過」近；比較009l08與012r01，仍維持候選。",
+      "bbox_xyxy": [
+        2940,
+        564,
+        3041,
+        860
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "012r01:11-11",
+      "column_id": "012r01",
+      "source_image": "012",
+      "image_sha256": "01c6a2b6aa22eb2fe4e734d7c3ddd3efd75a5d7667aceb0a39c9ea662cbf4bf0",
+      "initial_text": "卽",
+      "candidates": [
+        "卽",
+        "即"
+      ],
+      "disposition": "glyph-encoding",
+      "visual_basis": "同一即字草寫部件黏連，兩種編碼方案在此不作換字。",
+      "bbox_xyxy": [
+        2926,
+        274,
+        3058,
+        2265
+      ],
+      "bbox_scope": "estimated_physical_column_band"
+    },
+    {
+      "id": "012l03:14-14",
+      "column_id": "012l03",
+      "source_image": "012",
+      "image_sha256": "01c6a2b6aa22eb2fe4e734d7c3ddd3efd75a5d7667aceb0a39c9ea662cbf4bf0",
+      "initial_text": "包",
+      "candidates": [
+        "包",
+        "色"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "下部巴形可辨；外有曲筆但與上一橫黏連，無法確定包或色的起筆。",
+      "bbox_xyxy": [
+        1233,
+        1360,
+        1353,
+        1485
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "012l05:24-24",
+      "column_id": "012l05",
+      "source_image": "012",
+      "image_sha256": "01c6a2b6aa22eb2fe4e734d7c3ddd3efd75a5d7667aceb0a39c9ea662cbf4bf0",
+      "initial_text": "後",
+      "candidates": [
+        "後",
+        "從"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "「函」下字左彳明顯；右上筆墨急收，疑有雙人形，待裁定「從／後」。",
+      "bbox_xyxy": [
+        1027,
+        2086,
+        1148,
+        2205
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "013r12:28-28",
+      "column_id": "013r12",
+      "source_image": "013",
+      "image_sha256": "3d3f96a425542f98e2e5c05b631277599c189722dd58ae2f661d56db49e6b07f",
+      "initial_text": "楊",
+      "candidates": [
+        "楊",
+        "搗",
+        "揭"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "末字左有手旁傾向，右上日框、下有近勹形，重看更近揭，其餘楊、搗留候選。",
+      "bbox_xyxy": [
+        1848,
+        2089,
+        1969,
+        2216
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "013r13:01-01",
+      "column_id": "013r13",
+      "source_image": "013",
+      "image_sha256": "3d3f96a425542f98e2e5c05b631277599c189722dd58ae2f661d56db49e6b07f",
+      "initial_text": "棟",
+      "candidates": [
+        "棟",
+        "揀"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "首字右半中間兩點及中豎近柬，左半扌或木因筆畫相連難定。與013r12末組成織物名，保留不同部件候讀。",
+      "bbox_xyxy": [
+        1749,
+        406,
+        1871,
+        654
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "007r11:small",
+      "column_id": "007r11",
+      "source_image": "007",
+      "image_sha256": "565b96a61c9ef456f649e28c7f76ea546fd4636c6d48c40f0456668210664ee5",
+      "initial_text": "並",
+      "candidates": [
+        "並",
+        "煎"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "「一貼」下的窄墨字，中橫密，底部連筆近灬；獨立初看煎，再看仍難排除並。",
+      "bbox_xyxy": [
+        1957,
+        1257,
+        2078,
+        1428
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    },
+    {
+      "id": "005r05:small",
+      "column_id": "005r05",
+      "source_image": "005",
+      "image_sha256": "4e78bf60f7f081a8f1f416da066dbf522d793617a193fea17f04097a613a2418",
+      "initial_text": "敷練",
+      "candidates": [
+        "敷練",
+        "獻線",
+        "獻綫"
+      ],
+      "disposition": "candidate",
+      "visual_basis": "左子欄「堂前」下的首字右上起筆似犬或攵，次字左糸而右折轉，獻線、獻綫、敷練均保留。",
+      "bbox_xyxy": [
+        2574,
+        404,
+        2672,
+        628
+      ],
+      "bbox_scope": "character_or_phrase_crop"
+    }
+  ],
+  "review_counts": {
+    "scans": 15,
+    "spaces": 294,
+    "corrections": 24
+  }
+}

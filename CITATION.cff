@@ -3,7 +3,7 @@ type: dataset
 title: '崔淑儀房護産廳日記（1694年，韓國學中央研究院藏書閣 K2-3619 第2冊） / Choe Suguibang hosan-cheong ilgi
   [Daily Records of the Royal Maternity Directorate for Royal Consort Choe (Sugui)]:
   Transcription Dataset'
-version: 0.1.0
+version: 0.2.0
 message: Please cite this dataset version and source copy.
 authors:
 - family-names: Chu
