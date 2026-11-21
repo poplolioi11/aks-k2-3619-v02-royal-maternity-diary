@@ -1,0 +1,12 @@
+{
+  "image_inventory": 15,
+  "text_units": 290,
+  "xml_relaxng": "TEI P5 tei_all",
+  "cff_schema": "1.2.0",
+  "ordered_text_roundtrip": "passed",
+  "content_sha256": {
+    "transcription.json": "7d06a0033af926a8eb248c3acd140aa510c222be95e37ae3e3d620f47e7e2b82",
+    "transcription.txt": "e3f03807e0cc87a5ec2b8abd5fa13d8ed8762933f4fd6c7ddd048fe7f10c3543",
+    "transcription.tei.xml": "5f686746d00c30e0235fb47ce43e09d692b3b20eb80fee06fcf09cc084b3bc02"
+  }
+}

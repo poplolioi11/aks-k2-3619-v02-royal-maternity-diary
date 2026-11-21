@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+type: dataset
+title: '崔淑儀房護産廳日記（1694年，韓國學中央研究院藏書閣 K2-3619 第2冊） / Choe Suguibang hosan-cheong ilgi
+  [Daily Records of the Royal Maternity Directorate for Royal Consort Choe (Sugui)]:
+  Transcription Dataset'
+version: 0.1.0
+message: Please cite this dataset version and source copy.
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+date-released: '2026-11-21'
+repository-code: https://github.com/poplolioi11/aks-k2-3619-v02-royal-maternity-diary
+keywords:
+- 崔淑儀
+- 護産廳日記
+- Choe Suguibang hosan-cheong ilgi
+- 朝鮮宮廷醫學
+- 醫女
+- 產後照護
+- 新生兒照護
+- '1694'
+- Hanseong
+- Jangseogak
+- Royal Maternity Directorate
+- Joseon Medicine
+- Postpartum Care
+- Neonatal Care
+- Literary Chinese
+- TEI
